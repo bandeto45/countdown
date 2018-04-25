@@ -5,7 +5,7 @@ Count down timer using javascript
 Add element tags with an ID's days, hours, minutes, seconds.                                                    
 
 # Example
-<span id='days'></span> : <span id='hours'></span> : <span id='minutes'></span> : <span id='seconds'></span> 
+&lt;span id='days'&gt; &lt;/span&gt; : &lt;span id='hours'&gt; &lt;/span&gt; : &lt;span id='minutes'&gt; &lt;/span&gt; : &lt;span id='seconds'&gt; &lt;/span&gt;
 
 # For Javascript 
 Call initializeClock function with date ended and current date.
